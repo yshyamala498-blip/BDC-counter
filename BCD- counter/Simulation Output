@@ -1,0 +1,15 @@
+## 📊 Simulation Output
+```text
+Time = 0  | Reset= 1 | Count = 0 | BCD = 0000
+Time = 10 | Reset = 0 | Count = 1 | BCD = 0001
+Time = 20 | Reset = 0 | Count = 2 | BCD = 0010
+Time = 30 | Reset = 0 | Count = 3 | BCD = 0011
+Time = 40 | Reset = 0 | Count = 4 | BCD = 0100
+Time = 50 | Reset = 0 | Count = 5 | BCD = 0101
+Time = 60 | Reset = 0 | Count = 6 | BCD = 0110
+Time = 70 | Reset = 0 | Count = 7 | BCD = 0111
+Time = 80 | Reset = 0 | Count = 8 | BCD = 1000
+Time = 90 | Reset = 0 | Count = 9 | BCD = 1001
+Time = 100 | Reset = 0 | Count = 0 | BCD = 0000
+Time = 110 | Reset = 0 | Count = 1 | BCD = 0001
+Time = 120 | Reset = 0 | Count = 2 | BCD = 0010
